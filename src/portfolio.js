@@ -214,9 +214,9 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      url: "https://zahirrussell.medium.com/%E0%A6%B0%E0%A6%BF%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-emailjs-%E0%A6%87%E0%A6%89%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%87%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%8B-f7c29a4a89e5",
+      title: "রিঅ্যাক্ট এপ্লিকেশন থেকে EmailJS ইউজ করে মেইল পাঠানো।",
+      description: "Connect your email service || Create email template || Send email from JavaScript"
     },
     {
       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
